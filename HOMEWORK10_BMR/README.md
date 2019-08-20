@@ -5,6 +5,5 @@ In this assignment, you will build a web application that scrapes various websit
 
 
 
-![mission_to_mars.png](HOMEWORK10_BMR
-/templates/mission_to_mars.png)
+![mission_to_mars.png](mission_to_mars.png)
 
