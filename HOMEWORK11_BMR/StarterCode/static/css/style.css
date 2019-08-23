@@ -1,0 +1,23 @@
+
+body {
+background-color: black;
+color: white;
+}
+
+.jumbotron {
+margin: 20px;
+background-image: url("https://ppmag.s3.amazonaws.com/images/made/images/articles/15726/header_20181-the-great-orion-nebula_1050_591_75_7b39dae844941110_s.jpg");
+color: white;
+text-align: center;
+}
+
+.form-control {
+display: inline-block;
+width: 145px;
+}
+
+table {
+table-layout: fixed;
+background-color: black;
+color: white;
+}
